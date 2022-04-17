@@ -1,3 +1,3 @@
 select ename , empno
 from emp
-where deptno = 10 and loc = 'CHICAGO';
+where deptno = 10 and loc = 'CHICAGO' and dname = 'some';
